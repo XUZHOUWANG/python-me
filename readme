@@ -1,0 +1,3 @@
+common commands
+#install a dependency
+python -m pip install -u "pylint<2.0.0" --user
